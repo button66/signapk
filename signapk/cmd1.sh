@@ -1,0 +1,1 @@
+java -Djava.library.path=. -jar signapk.jar platform1.x509.pem platform1.pk8 TestTaskView.apk app-debug_sign.apk
